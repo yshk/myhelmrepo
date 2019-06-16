@@ -8,7 +8,7 @@ entries:
     digest: 3a6f16e6c48d10fa78cb35f5bc56fd029edb8c9c96dd81b7cd8f4b1664c74138
     name: mynginxapp
     urls:
-    - mynginxapp-0.2.0.tgz
+    - https://raw.githubusercontent.com/yshk/myhelmrepo/master/mynginxapp-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,6 +17,6 @@ entries:
     digest: 5e05a8b99f1963f435d60dee24ec36a45c807b39979926d543dbb785959d3508
     name: mynginxapp
     urls:
-    - mynginxapp-0.1.0.tgz
+    - https://raw.githubusercontent.com/yshk/myhelmrepo/master/mynginxapp-0.1.0.tgz
     version: 0.1.0
 generated: 2019-06-16T15:30:49.750862481+09:00
